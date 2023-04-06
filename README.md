@@ -1,2 +1,2 @@
 # ToDo-App
-To do app to add dates for you, made with passion :)
+To do app, made with passion :)
